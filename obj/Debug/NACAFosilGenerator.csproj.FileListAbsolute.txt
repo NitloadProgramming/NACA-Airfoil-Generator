@@ -1,0 +1,8 @@
+C:\Users\Nitlo\Desktop\NACAFosilGenerator\NACAFosilGenerator\NACAFosilGenerator\bin\Debug\NACAFosilGenerator.exe.config
+C:\Users\Nitlo\Desktop\NACAFosilGenerator\NACAFosilGenerator\NACAFosilGenerator\bin\Debug\NACAFosilGenerator.exe
+C:\Users\Nitlo\Desktop\NACAFosilGenerator\NACAFosilGenerator\NACAFosilGenerator\bin\Debug\NACAFosilGenerator.pdb
+C:\Users\Nitlo\Desktop\NACAFosilGenerator\NACAFosilGenerator\NACAFosilGenerator\obj\Debug\NACAFosilGenerator.csproj.AssemblyReference.cache
+C:\Users\Nitlo\Desktop\NACAFosilGenerator\NACAFosilGenerator\NACAFosilGenerator\obj\Debug\NACAFosilGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nitlo\Desktop\NACAFosilGenerator\NACAFosilGenerator\NACAFosilGenerator\obj\Debug\NACAFosilGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Nitlo\Desktop\NACAFosilGenerator\NACAFosilGenerator\NACAFosilGenerator\obj\Debug\NACAFosilGenerator.exe
+C:\Users\Nitlo\Desktop\NACAFosilGenerator\NACAFosilGenerator\NACAFosilGenerator\obj\Debug\NACAFosilGenerator.pdb
